@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Aplicacion uno </name>
+    <name>Aplicacion dos</name>
 
     <description>
-        Aplicacion que muestra los modulos de la especialidad de programacion 
+        Aplicacion que muestra los datos de la batalla del 5 de mayo 
 	</description>
 
     <preference name="phonegap-version" value="3.1.0" />
